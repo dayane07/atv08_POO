@@ -7,6 +7,8 @@ os considera essenciais (abstração).
  *resposta*: atributos - autor,titulo e disponibilidade do livro
  métodos - emprestar e devolver
 
+são essenciais pelo fato dos metodos serem diretos, sem entrar em detalhe com o leitor.
+
  ○ O que melhor define Abstração em POO?
 a) A capacidade de uma classe herdar características de outra.
 b) Agrupar dados e os métodos que operam nesses dados em uma
