@@ -1,0 +1,19 @@
+Imagine que você está desenvolvendo um sistema para uma biblioteca.
+Quais são os atributos e métodos essenciais que a classe Livro deveria
+ter do ponto de vista de um leitor que quer pegar um livro emprestado?
+Descreva pelo menos 3 atributos e 2 métodos, explicando por que você
+os considera essenciais (abstração).
+
+ *resposta*: atributos - autor,titulo e disponibilidade do livro
+ métodos - emprestar e devolver
+
+ ○ O que melhor define Abstração em POO?
+a) A capacidade de uma classe herdar características de outra.
+b) Agrupar dados e os métodos que operam nesses dados em uma
+única unidade.
+c) Focar nos detalhes de implementação de um objeto para
+garantir que funcione corretamente.
+d) Ocultar a complexidade e expor apenas as funcionalidades
+essenciais de um objeto.
+
+letra - D
