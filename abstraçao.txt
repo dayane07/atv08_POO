@@ -5,7 +5,9 @@ Descreva pelo menos 3 atributos e 2 métodos, explicando por que você
 os considera essenciais (abstração).
 
  *resposta*: atributos - autor,titulo e disponibilidade do livro
- métodos - emprestar e devolver
+ métodos - emprestar e devolver.
+
+ são essenciais pelo fato dos metodos serem diretos, sem entrar em detalhe com o leitor.
 
  ○ O que melhor define Abstração em POO?
 a) A capacidade de uma classe herdar características de outra.
