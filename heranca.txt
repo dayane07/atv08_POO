@@ -1,0 +1,18 @@
+A herança serve para reaproveitar e estender um codigo ja existente.
+
+exemplo:
+
+Classe Pai (Geral): Veículo
+
+Atributos (Características Comuns): Tem Rodas, Tem Cor, Tem Peso, Tem Velocidade Máxima.
+
+Métodos (Ações Comuns): Ligar Motor, Acelerar, Frear.
+
+Classe Filha (Específica): Carro
+
+Herda: Todas as características e ações de Veículo.
+
+Adiciona/Modifica: Tem Volante (e não Guidão), Possui 4 Portas, Método Ligar Motor usa Chave (diferente de uma Bicicleta, por exemplo)
+
+verdadeiro ou falso: F, V, V
+
