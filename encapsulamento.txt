@@ -1,0 +1,3 @@
+1. Um setter permite que você valide o dado antes de atribuí-lo ao atributo. Por exemplo, você pode garantir que a idade nunca seja um número negativo ou que um saldo bancário não seja definido como um valor não numérico.
+
+2. D
