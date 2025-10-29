@@ -1,0 +1,5 @@
+1.Polimorfismo é a capacidade que diferentes objetos (pertencentes a diferentes classes) têm de responder a uma mesma mensagem (chamada de método) de formas distintas e adequadas à sua própria classe.
+
+2.A mensagem (ou método) é a mesma para todas as classes: exibir_dados().
+
+3. O código irá imprimir "Mensagem de erro: Ocorreu um erro de conexão", "Mensagem de erro: Ocorreu um erro no banco de dados" e "Mensagem de erro: Ocorreu um erro de autenticação".
